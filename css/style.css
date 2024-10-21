@@ -1,0 +1,39 @@
+@import url(base.css);
+@import url(reset.css);
+@import url(header.css);
+@import url(main.css);
+@import url(footer.css);
+
+
+
+
+
+
+
+
+body{
+    /* Сайт по центру */
+    margin: auto;
+    /* Ширина сайту */
+    max-width: var(--width);
+    max-height: var(--height);
+    font-family: var(--font-family-text);
+    /* font-size: var(--font-size-text); */
+}
+
+a{
+    color: var(--color-dark-green);
+
+}
+/* .container {
+padding-left: 50px;
+padding-right: 50px;
+} */
+
+
+.text_h2{
+    padding-top: 29px;
+    font-size: var(--font-size-h2);
+    font-family: var(--font-family-text);
+    text-align: center;
+}

@@ -1,0 +1,610 @@
+.main 
+{
+    padding-right: 75px;
+    padding-left: 75px;
+    font-size: 15px;
+    font-family: var(--font-family-text);
+    height: 6500px;
+}
+
+.speed_img{
+position: relative;
+top:350px;
+z-index: 1;
+}
+
+.increase_in_sales_img{
+    z-index: 5;
+    position: relative;
+    top:800px;
+    right: 370px;
+}
+
+.waves_speed{
+    float: right;
+    position: relative;
+    top: 350px;
+    right:-72px;
+}
+
+.speed_position{
+    position: relative;
+    top: -100px;
+    left: 710px;
+    width: 600px;
+
+}
+
+.speed_logo{
+    background-color: var(--color-light-green);
+    padding: 10px 20px;
+    border-radius: 25px;
+    width: 90px;
+    font-weight: bold;
+    
+}
+
+.speed_h
+{
+    font-size: 40px; 
+    font-family: var(--font-family-h);
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.speed_text{
+    font-size: 18px;
+    width: 600px;
+    padding-bottom: 20px;
+
+}
+
+.speed_list{
+    position: relative;
+    width: 500px;
+
+}
+
+.speed_list ul li{
+    /* Розміщуємо пункти в 1 рядок */
+        display: inline-block;
+        padding-left:30px;
+    }
+
+
+.speed_list ul li:hover {
+    font-weight: bold;
+
+}
+
+.get_started_btn_white
+{
+    padding: 15px 20px;
+    border-radius: 25px;
+    border: 2px solid var(--color-dark-green);
+}
+
+.section_key_benefits{
+    background-color: var(--color-light-green);
+    position: relative;
+    top:180px;
+    font-size: 16px;
+    height: 900px;
+    border-radius: 48px;
+}
+
+.key_benefits_h{
+    font-family: var(--font-family-h);
+    font-size: 40px;
+    width: 705px;
+    position: relative;
+    left:350px;
+    text-align: center;
+
+}
+
+.key_benefits_img{
+    position: relative;
+    left:1150px;
+}
+
+.key_benefits_text{
+    font-family: var(--font-family-text);
+    font-size: 18px;
+    width: 705px;
+    position: relative;
+    left:350px;
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+.key_benefits_list{
+    
+    position: relative;
+    left:75px;
+    top:50px;
+}
+
+
+.key_benefits_list ul li{
+    display: inline-block;
+    border-radius: 24px;
+    background-color: var(--color-dark-green);
+    height:304px;
+    width: 363px;
+    position: relative;
+    margin-left: 30px;
+}
+
+.key_benefits_list ul li img{
+    position: relative;
+    top:30px;
+    left:130px; 
+}
+
+.key_benefits_list ul li h3{
+    font-size: 20px;
+    font-family: var(--font-family-h);
+    color: white;
+    position: relative;
+    top:60px;
+    left:120px;
+}
+
+#less_paper_work_h{
+    left:100px;
+}
+
+.key_benefits_list ul li p{
+    color: white;
+    position: relative;
+    text-align: center;
+    top:80px;
+    left: 50px;
+    width: 260px;
+}
+
+.key_benefits_btns{
+    position: relative;
+    top:100px;
+    left:550px;
+}
+
+.efficient_content{
+    position: relative;
+    top:350px;
+    height: 486px;
+    width: 700px;
+}
+
+.efficient_list
+{
+    height: 204px;
+    
+}
+.efficient_list ul li{
+    display: inline-block;
+    width: 285px;
+    margin-right: 60px;
+}
+.efficient_list ul li img{
+    background-color: var(--color-light-green);
+    padding: 12px;
+    border-radius: 16px;
+}
+
+.efficient_list ul li h3{
+padding-top: 20px;
+padding-bottom: 20px;
+font-family: var(--font-family-h);
+font-size: 20px;
+}
+.efficient_list ul li p{
+font-size: 16px;
+}
+
+.efficient_aside{
+    float: right;
+    position: relative;
+    top:-190px;
+}
+
+.increased_in_productivity_img{
+    position: relative;
+    top:420px;
+    left: 380px;
+}
+
+.comment_section{
+    height: 1405px;
+    background-color: var(--color-dark-green);
+    width: var(--width);
+    position: relative;
+    top:530px;
+    left:-75px;
+}
+
+.comment_back_img_1{
+    position: relative;
+left:1238px;
+z-index: 1;
+}
+.comment_back_img_2{
+z-index: 1;
+position: relative;
+top:900px;
+}
+
+.comment_section_logo{
+    color: white;
+    position: relative;
+    top:-740px;
+    left:380px;
+    width: 700px;
+}
+
+.comment_section_h{
+    font-family: var(--font-family-h);
+    font-size: 48px;
+}
+
+.comment_section_text{
+    font-size: 17px;
+    padding-top: 27px;
+    position: relative;
+    left: 17px;
+}
+
+.comment_section_list ul li{
+display: inline-block;
+margin-right: 57px;
+}
+.comment_list{
+    position: relative;
+    top:-650px;
+    z-index: 5;
+    width: 625px;
+
+}
+
+.comment_list ul li{
+    background-color: white;
+    width: 640px;
+    height: 256px;
+    border-radius: 32px;
+    margin-bottom: 50px;
+}
+
+
+.comment_list ul li div{
+    position: relative;
+    top:20px;
+    left:30px;
+    width:542px;
+}
+
+.comment_list ul li p{
+    font-size: 18px;
+    color:#49616E;
+    position: relative;
+    padding-top:30px;
+    padding-bottom: 20px;
+}
+
+.comment_list ul li h2{
+    font-size: 16px;
+    color:#49616E;
+    width: 250px;
+    position: relative;
+    top:-45px;
+    left:65px;
+}
+
+.comment_list ul li h3{
+    font-size: 15px;
+    width: 250px;
+    position: relative;
+    top:-48px;
+    left:65px;
+}
+
+.section_pricing{
+    position: relative;
+    top:-380px;
+}
+
+.pricing_logo{
+    background-color: var(--color-light-green);
+    padding: 10px 20px;
+    border-radius: 25px;
+    width: 90px;
+    position: relative;
+    left:620px;
+    
+}
+
+.pricing_h{
+    font-size: 48px;
+    font-family:var(--font-family-h);
+    padding-top: 15px;
+    position: relative;
+    left: 530px;
+    width: 320px;
+}
+
+.pricing_p{
+    font-size: 17px;
+    padding-top: 20px;
+    position: relative;
+    left: 450px;
+    color: #49616E;
+    width: 500px;
+
+}
+
+.pricing_plans_list{
+
+height: 732px;
+position: relative;
+top: 100px;
+}
+
+
+.pricing_plans_list_point{
+    display: inline-flex;
+    background-color: var(--color-dark-green);
+    height: 688px;
+    width: 405px;
+    border-radius: 32px;
+    vertical-align: bottom; 
+    margin-left: 40px;
+
+}
+
+
+.pricing_plans_list_point div{
+    position: relative;
+    left: 30px;
+    top:30px;
+    width: 341px;
+    height: 552px;
+    color: white;
+    
+}
+
+.pricing_plans_list_point div img{
+    float:right;
+    
+}
+
+.pricing_plans_list_point div h2{
+    font-size: 20px;
+    font-family: var(--font-family-h);
+    padding-top: 80px;
+    
+}
+
+.pricing_plans_list_point div h1{
+    font-size: 32px;
+    font-family: var(--font-family-h);
+    padding-top: 10px;
+    padding-bottom: 8px;
+    
+    
+}
+
+.pricing_plans_list_point span{
+    font-size: 56px;
+    
+}
+
+.pricing_plans_list_point h4{
+    font-size: 16px;
+    
+}
+
+.pricing_plans_list_point hr{
+    border: none;
+    border-top: 1px solid #223E4E;
+    width: 100%;
+    margin: 50px 0;
+}
+
+
+.pricing_plans_list_point ul li {
+    position: relative;
+    margin-top: 20px;
+    padding-left: 30px; 
+}
+
+.pricing_plans_list_point ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    background-color: var(--color-light-green); 
+    border-radius: 50%; 
+}
+
+.pricing_plans_list_point a {
+    width: 341px;
+    text-align: center;
+    background-color: var(--color-light-green); 
+    border-radius: 64px;
+    padding: 20px 125px;
+    
+
+}
+.a_plan_1{
+    position: relative;
+    top:130px;
+}
+.a_plan_2{
+    position: relative;
+    top: 135px;
+}
+.a_plan_3{
+    position: relative;
+    top:50px;
+}
+.pricing_plans_list_point:nth-child(2) {
+    height: 732px;
+    background-color: var(--color-light-green); 
+    
+}
+.pricing_plans_list_point:nth-child(2) div {
+    color: var(--color-dark-green); 
+}
+.pricing_plans_list_point:nth-child(2) a {
+    background-color: var(--color-dark-green);  
+    color: white; 
+}
+.pricing_plans_list_point a:hover {
+    font-weight: bold;
+}
+
+.pricing_plans_list_point:nth-child(2) ul li::before {
+    background-color: var(--color-dark-green); 
+
+}
+
+.waves_pricing{
+    position: relative;
+    top:-850px;
+    float:right;
+    right:-72px;
+}
+
+.section_blog{
+    height: 1288px;
+    position: relative;
+    top:-125px;
+}
+
+.blog_logo{
+    background-color: var(--color-light-green);
+    padding: 10px 20px;
+    border-radius: 25px;
+    width: 70px;
+    position: relative;
+    left:650px;
+    font-weight: bold;
+}
+
+.blog_h1{
+    font-weight: bold;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: var(--font-family-h);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    left:520px;
+    width: 500px;
+}
+
+.blog_p{
+    font-size: 18px;
+    position: relative;
+    left:500px;
+    width: 400px;
+}
+
+.blog_list{
+    position:relative;
+    top:80px;
+}
+
+.blog_list ul li{
+    display: inline-block;
+    width: 404px;
+    border: 2px solid #E5E7EB;
+    border-radius: 32px;
+    height: 665px;
+    margin-left: 40px;
+    vertical-align: bottom; 
+    color: var(--color-dark-green);
+}
+
+.blog_list ul li img{
+padding-bottom: 35px;
+}
+
+.blog_list_topic{
+    border: 2px solid #E5E7EB;
+    border-radius: 32px;
+    padding: 10px 15px;
+    margin-right: 20px;
+}
+
+.blog_list ul li h4{
+    text-align: center;
+    font-size: 13px;
+}
+
+.blog_list ul li div{
+    width: 340px;
+    margin-top: 40px;
+    position: relative;
+    left: 30px;
+    text-align: center;
+}
+.blog_list ul li h1{
+    font-family: var(--font-family-h);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.blog_list ul li p {
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.blog_list_a_1 {
+    text-align: center;
+    position: relative;
+    top:20px;
+}
+
+
+.blog_read_more_1{
+   position: relative;
+   top:-73px;
+   right:120px;
+   margin-left: 250px;
+}
+
+.blog_list ul li a:hover {
+    font-weight: bold;
+}
+.blog_list_a_2 {
+    text-align: center;
+    position: relative;
+    top:50px;
+}
+
+.read_more_img{
+    margin-left: 120px;
+}
+
+.view_all_a{
+    width: 200px;
+    position: relative;
+    left:620px;
+    top:180px;
+    border-radius: 64px;
+    padding: 15px 25px;
+    border: 2px solid var(--color-dark-green);
+    font-weight: bold;
+
+}
+
+.view_all_a:hover{
+    background-color: var(--color-dark-green);
+    color:white;
+}
+

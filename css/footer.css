@@ -1,0 +1,155 @@
+.subscribe_form{
+    background-color: var(--color-light-green);
+    margin-left: 75px;
+    margin-right: 75px;
+    border-radius: 48px;
+    height: 484px;
+}
+.footer{
+    height: 1319px;
+    position: relative;
+    top:165px;
+    color: var(--color-dark-green);
+    font-family: var(--font-family-text);
+}
+
+.subscribe_img{
+    position: relative;
+    left: 1120px;
+}
+
+.subscribe_content{
+    width: 770px;
+    height: 292px;
+    position: relative;
+    left:300px;
+}
+
+.subscibe_logo{
+    font-family: var(--font-family-h);
+    font-size: 40px;
+    text-align: center;
+    width: 700px;
+    padding-left: 30px;
+}
+
+.subscibe_sub_logo{
+    font-size: 18px;
+    text-align: center;
+    width: 727px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+
+.subscribe_input{
+    width: 370px;
+    height: 52px;
+    border-radius: 24px;
+    background-color: white;
+    padding-left: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    left:120px;
+}
+
+input::placeholder {
+    color: var(--color-dark-green);
+    opacity: 1; 
+  }
+
+.subscribe_button{
+    width: 128px;
+    height: 52px;
+    border-radius: 24px;
+    background-color: var(--color-dark-green);
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
+    position: relative;
+    left:140px;
+}
+
+.subscribe_button:hover{
+    background-color:#11222c;
+}
+
+.subscribe_small_text{
+    width:498px;
+    font-size: 11px;
+    padding-top: 20px;
+    position: relative;
+    left:120px;
+}
+
+.back_color{
+    background-color: var(--color-dark-green);
+    height: 835px;
+}
+
+.footer_content{
+    padding-right: 75px;
+    padding-left: 75px;
+    padding-top: 100px;
+    font-size: 14px;
+    color:white;
+    font-family: var(--font-family-text);
+}
+
+.address_contact_text{
+width: 500px;
+height: 126px;
+}
+
+.footer_pages{
+    width: 660px;
+    height: 521px;
+    float: right;
+}
+
+.footer_pages_lists_points{
+    width:210px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.footer_pages_lists_points ul li{
+    padding-bottom: 20px;
+}
+
+.footer_pages_lists_points ul li{
+    padding-bottom: 20px;
+}
+
+.footer_pages_lists_points ul li a{
+    color: white; 
+}
+.footer_pages_lists_points ul li a:hover{
+    text-decoration: underline; 
+}
+
+.footer_rights_social{
+    height: 70px;
+    position: relative;
+    top:450px;
+    border-top: 1px solid #223E4E;
+}
+
+.footer_rights{
+    padding-top: 50px;
+}
+
+.footer_social{
+    position: relative;
+    left:1240px;
+    top:-30px;
+    width: 150px;
+
+}
+
+.footer_social ul li{
+    display: inline-block;
+    width: 45px;
+}
